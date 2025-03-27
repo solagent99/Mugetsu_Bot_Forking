@@ -8,7 +8,7 @@ Mugetsu is available both on Telegram and Discord, and can be added to your priv
 
 Refer to the following guides for an in-depth walk through on how to use the commands:
 
-### Contact here => [yumecode](https://t.me/shinnyleo0912)
+### Contact here => [Telegram](https://t.me/shinnyleo0912)
 
 #### Bot is still upgrading
 Live on [@mugetsu_forking_bot](https://t.me/mugetsu_forking_bot)
