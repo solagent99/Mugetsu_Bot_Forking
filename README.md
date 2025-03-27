@@ -8,7 +8,7 @@ Mugetsu is available both on Telegram and Discord, and can be added to your priv
 
 Refer to the following guides for an in-depth walk through on how to use the commands:
 
-### Contact here => [yumecode](https://t.me/yumecode)
+### Contact here => [yumecode](https://t.me/shinnyleo0912)
 
 #### Bot is still upgrading
 Live on [@mugetsu_forking_bot](https://t.me/mugetsu_forking_bot)
@@ -33,4 +33,4 @@ Live on [@mugetsu_forking_bot](https://t.me/mugetsu_forking_bot)
 
 ![image](https://github.com/user-attachments/assets/0d5652c5-93cb-408f-b170-da01004b028b)
 
-If you have any questions you can contact me on Telegram, Twitter, or Discord: @lunarfang_416 or @yumecode
+If you have any questions you can follow and contact to me via telegram or twitter ([X](https://x.com/web3batman), [Telegram](https://t.me/shinnyleo0912))
